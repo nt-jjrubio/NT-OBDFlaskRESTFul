@@ -1,0 +1,9 @@
+obd
+flask
+flask-restful
+
+six
+pytz
+
+python-dotenv
+
